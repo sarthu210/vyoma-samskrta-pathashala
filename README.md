@@ -29,7 +29,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd clinet
+  cd client
 ```
 
 Install dependencies
